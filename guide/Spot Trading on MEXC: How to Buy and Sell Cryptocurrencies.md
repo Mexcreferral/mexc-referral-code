@@ -95,3 +95,8 @@
 
 <h2>10. Conclusion</h2>
 <p>Spot trading on MEXC is an excellent way for beginners and experienced traders to buy and sell cryptocurrencies with ease. By using the <strong>MEXC signup bonus, referral bonus, and promo codes</strong>, new users in 2025 can maximize their rewards. Sign up today and start trading!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
