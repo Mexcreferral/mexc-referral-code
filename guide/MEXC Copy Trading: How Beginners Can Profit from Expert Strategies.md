@@ -101,3 +101,8 @@
 
 <h2>Conclusion</h2>
 <p>MEXC copy trading is a powerful tool for beginners looking to profit from expert strategies. With its user-friendly interface, risk management tools, and regular market updates, new users can start trading with confidence in 2025. Sign up today using the <strong>MEXC referral code MXUSDT</strong> to claim exclusive bonuses and begin your copy trading journey!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
