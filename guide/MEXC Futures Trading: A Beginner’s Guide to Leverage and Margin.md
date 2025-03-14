@@ -64,3 +64,8 @@
 <p>Using a <strong>MEXC referral code</strong> like <strong>MXUSDT</strong> is the easiest way to unlock exclusive benefits, including a <strong>MEXC signup bonus</strong>, discounted trading fees, and additional <strong>MEXC referral bonuses</strong>. Whether you're a beginner or an experienced trader, taking advantage of <strong>MEXC promo codes</strong> and the <strong>MEXC affiliate program</strong> can help you maximize your earnings.</p>
 
 <p><strong>Sign up on MEXC today and use the referral code MXUSDT to get your bonus!</strong> 🚀</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
