@@ -72,3 +72,8 @@
 
 <h3>Q5: What are the safest alternatives to MEXC?</h3>
 <p>Some of the best alternatives include Binance, Bybit, and BitMart, depending on the user’s security preferences.</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
