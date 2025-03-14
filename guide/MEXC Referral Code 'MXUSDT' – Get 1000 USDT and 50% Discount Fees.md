@@ -90,3 +90,8 @@
 <h2>Conclusion</h2>
 <p>If you're looking for the best <strong>MEXC signup bonus</strong> and <strong>trading rewards</strong>, using the <strong>MEXC referral code 'MXUSDT'</strong> is the smartest move. Not only will you get a <strong>1000 USDT bonus</strong>, but you'll also enjoy <strong>a 50% discount on trading fees</strong>. Sign up today and start maximizing your crypto trading profits!</p>
 <p>🚀 <strong>Join MEXC today and use the referral code 'MXUSDT' to claim your rewards!</strong></p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
