@@ -91,3 +91,8 @@
 <h2>8. Conclusion</h2>
 <p>MEXC is a top-tier cryptocurrency exchange that offers extensive rewards and benefits to its users. By signing up with the <strong>MEXC referral code MXUSDT</strong>, traders can enjoy <strong>discounted fees, trading rewards, and exclusive bonuses</strong>. Whether you’re a new user or an experienced trader, MEXC provides everything you need to maximize your trading profits in <strong>2025</strong>.</p>
 <p><strong>Start trading on MEXC today and claim your rewards!</strong></p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
