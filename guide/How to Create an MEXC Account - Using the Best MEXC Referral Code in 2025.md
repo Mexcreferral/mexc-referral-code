@@ -81,3 +81,8 @@
 
 <h2>8. Conclusion</h2>
 <p>Creating an MEXC account in 2025 is simple and rewarding. By using the <strong>MEXC referral code (MXUSDT)</strong> during sign-up, you unlock exclusive benefits like trading fee discounts and welcome bonuses. Follow this guide to <strong>maximize your rewards and start trading on MEXC today</strong>!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
