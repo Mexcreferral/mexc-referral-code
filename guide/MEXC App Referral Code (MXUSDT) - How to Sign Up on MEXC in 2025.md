@@ -92,3 +92,8 @@
 
 <h2>Conclusion</h2>
 <p>Signing up for MEXC in 2025 is easier than ever, and using the <strong>MEXC app referral code (MXUSDT)</strong> ensures you get the <strong>best bonuses and trading rewards</strong>. Whether you’re a beginner or an experienced trader, MEXC offers <strong>top-tier security</strong>, <strong>low fees</strong>, and a <strong>user-friendly experience</strong>. Don’t miss out on <strong>exclusive promo codes</strong> and <strong>discounts</strong>—sign up today and start trading!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
