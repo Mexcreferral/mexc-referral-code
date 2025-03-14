@@ -94,3 +94,8 @@
 <h2>Conclusion</h2>
 <p>MEXC airdrops provide an excellent way to earn <strong>free crypto rewards</strong> without investing. Whether you’re a <strong>new user</strong> signing up for the first time or an experienced trader looking for bonus opportunities, staying updated on <strong>MEXC airdrop events</strong> can help you maximize your earnings.</p>
 <p>Make sure to <strong>sign up</strong> for MEXC today, use the <strong>referral code MXUSDT</strong>, and start claiming your free crypto rewards in 2025! 🚀</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
