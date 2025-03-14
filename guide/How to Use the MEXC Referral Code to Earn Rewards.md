@@ -87,3 +87,8 @@
 
 <h2>Conclusion</h2>
 <p>Using the <strong>MEXC referral code - MXUSDT</strong> in 2025 is the best way to earn bonuses, enjoy trading discounts, and maximize your crypto earnings. Whether you're a new user or looking to participate in the <strong>MEXC affiliate program</strong>, this guide provides everything you need to get started. Sign up today and start earning rewards with MEXC!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
