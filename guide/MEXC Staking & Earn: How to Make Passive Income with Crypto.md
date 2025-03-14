@@ -79,3 +79,8 @@ A: Fixed staking offers higher APY but locks funds, while flexible staking allow
 
 <h2>Conclusion</h2>
 <p>MEXC Staking & Earn is one of the best ways to generate passive income with crypto in 2025. Whether you're staking, saving, or participating in MEXC trading rewards, the platform provides multiple earning opportunities. New users can also benefit from sign-up bonuses and referral rewards. Get started today and maximize your earnings on MEXC!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
