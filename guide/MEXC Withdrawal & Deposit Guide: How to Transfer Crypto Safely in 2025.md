@@ -96,3 +96,8 @@
 
 <h2>Conclusion</h2>
 <p>MEXC continues to provide a secure and efficient platform for cryptocurrency transactions in 2025. Whether you are depositing funds to start trading or withdrawing your earnings, following the right steps ensures a hassle-free experience. <strong>Sign up today using the referral code MXUSDT</strong> to claim your new user bonus and enjoy seamless crypto transfers on MEXC!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
