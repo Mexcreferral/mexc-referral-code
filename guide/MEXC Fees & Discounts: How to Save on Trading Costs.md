@@ -85,3 +85,8 @@
 
 <h2>6. Conclusion</h2>
 <p>Understanding MEXC fees and utilizing <strong>MEXC referral bonuses, discount codes, and promo codes</strong> can significantly reduce your trading costs. By using the <strong>MEXC referral code MXUSDT</strong>, holding MX tokens, and optimizing trading strategies, traders can maximize savings in 2025. Start your journey with MEXC today and enjoy cost-effective trading!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
