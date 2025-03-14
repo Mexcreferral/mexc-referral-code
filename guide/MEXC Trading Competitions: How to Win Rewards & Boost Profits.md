@@ -87,3 +87,8 @@
 
 <h2>7. Conclusion</h2>
 <p>MEXC trading competitions are an exciting way to test your trading skills while earning <strong>new rewards and bonuses</strong>. By staying updated with competition rules, using smart trading strategies, and taking advantage of referral codes like <strong>MXUSDT</strong>, traders can significantly boost their profits. Whether you're a beginner or a seasoned trader, these competitions offer <strong>new ways</strong> to maximize gains in 2025 and beyond. Sign up now, stay updated with <strong>MEXC’s latest trading events</strong>, and start competing for big rewards today!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
