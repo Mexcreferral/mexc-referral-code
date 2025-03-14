@@ -86,3 +86,8 @@
 <p>The <strong>MEXC welcome bonus</strong> is a fantastic opportunity for new users to start trading with extra benefits. By signing up with the <strong>MEXC referral code - MXUSDT</strong>, users can enjoy lower fees, trading rewards, and deposit incentives. Don't miss out—sign up today and start maximizing your earnings with MEXC!</p>
 
 <p>🔹 <strong>Sign up now using MEXC referral code MXUSDT and claim your exclusive 2025 bonuses!</strong> 🚀</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
