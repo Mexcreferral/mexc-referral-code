@@ -54,3 +54,8 @@
         
 <h2>Conclusion</h2>
 <p>Completing the <strong>MEXC KYC verification</strong> unlocks full platform benefits, including <strong>higher withdrawal limits, exclusive trading bonuses, and enhanced security</strong>. If you're a <strong>new user</strong>, don’t forget to use the <strong>MEXC referral code (MXUSDT)</strong> to claim exciting rewards.</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
