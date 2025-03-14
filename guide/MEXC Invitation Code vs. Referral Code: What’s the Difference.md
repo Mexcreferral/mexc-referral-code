@@ -102,3 +102,8 @@
 <h2>7. Conclusion</h2>
 <p>Choosing between an <strong>MEXC invitation code</strong> and an <strong>MEXC referral code</strong> depends on your trading goals. If you are looking for an instant <strong>MEXC signup bonus</strong>, use an <strong>MEXC invitation code</strong>. However, if you plan to trade regularly, using a <strong>MEXC referral code (MXUSDT)</strong> can provide ongoing fee discounts and referral rewards.</p>
 <p>For the latest <strong>MEXC promo code updates for 2025</strong>, keep an eye on official sources and crypto communities. Whether you’re a new user or an existing trader, using these codes wisely can help you maximize your MEXC experience!</p>
+
+<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
